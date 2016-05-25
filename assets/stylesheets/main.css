@@ -79,6 +79,8 @@ nav {
   height: 240px;
   transform: rotate(90deg);
   border-radius: 100%;
+  width: 30%;
+  height: auto;
 }
 
 #icons {
