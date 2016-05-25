@@ -52,7 +52,7 @@ main {
 }
 
 body {
-  background: url(../images/background.jpg);
+  background: url(../images/background2.jpg);
   display: flex;
   min-height: 100vh;
   flex-direction: column;
